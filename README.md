@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linktr.ee/Hafizdkren
 
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H33XFW3)
-- Support and follow me via : https://www.linktr.ee/Hafizdkren
