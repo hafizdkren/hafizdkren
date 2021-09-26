@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Gaming, Cryptocurrency, Technology, Financial, Advice. I'll finding those solution...
 
 
-- 📫 How to reach me: https://www.linktr.ee/Hafizdkren
+- 📫 How to reach me? [Just click this link...](https://www.linktr.ee/Hafizdkren)
 
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H33XFW3)
+<a href="https://www.buymeacoffee.com/Hafizdkren"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pc&emoji=🖥️&slug=Hafizdkren&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
