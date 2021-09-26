@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 # whoami (It's Who Am I, not who ami.)
 
-![Hafizdkren GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizdkren&locale=id,en&show_icons=true&title_color=#0de7b1&text_color=#e81176d9&border_color=#6730f3e6&bg_color=#000000f2&border_radius=15)
+![Hafizdkren GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizdkren&show_icons=true&title_color=#0de7b1&text_color=#e81176d9&border_color=#6730f3e6&bg_color=#000000f2&border_radius=15)
 
 - 🌱 I’m currently learning animation, also re-learn coding and photography
 - 😄 Pronouns: Hill and Man (like IP MAN).
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## My Repo List.
 
-![Hafizdkren GitHub repos](https://github-readme-stats.vercel.app/api?username=hafizdkren&locale=id,en&show_icons=true&title_color=#0de7b1&text_color=#e81176d9&border_color=#6730f3e6&bg_color=#000000f2&border_radius=15)
+![Hafizdkren GitHub repos](https://github-readme-stats.vercel.app/api?username=hafizdkren&show_icons=true&title_color=#0de7b1&text_color=#e81176d9&border_color=#6730f3e6&bg_color=#000000f2&border_radius=15)
 
 ## Project I'm Working On.
 
