@@ -3,6 +3,12 @@
 <!--
 **hafizdkren/hafizdkren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+This is for the readme stats : (https://github-readme-stats.vercel.app/api?username=hafizdkren&show_icons=true&title_color=0de7b1&text_color=e81176d9&border_color=6730f3e6&bg_color=000000f2&border_radius=20)
+
+Example for repo card : [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+Example for top languange : [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
@@ -12,12 +18,7 @@ Here are some ideas to get you started:
 -->
 # whoami (It's Who Am I, not who ami.)
 
-![Hafizdkren GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizdkren&show_icons=true&title_color="#0de7b1"&text_color="#e81176d9"&border_color="#6730f3e6"&bg_color="#000000f2"&border_radius=50)
-
-<!--
-(https://github-readme-stats.vercel.app/api?username=hafizdkren&show_icons=true&title_color=#0de7b1&text_color=#e81176d9&border_color=#6730f3e6&bg_color=#000000f2&border_radius=15)
-(https://github-readme-stats.vercel.app/api?username=hafizdkren&theme=midnight-purple&show_icon=true)
--->
+![Hafizdkren GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizdkren&show_icons=true&title_color=0de7b1&text_color=e81176d9&border_color=6730f3e6&bg_color=000000f2&border_radius=20)
 
 - 🌱 I’m currently learning animation, also re-learn coding and photography
 - 😄 Pronouns: Hill and Man (like IP MAN).
@@ -31,13 +32,14 @@ Here are some ideas to get you started:
 
 ## My Repo List.
 
-[![Hafizdkren GitHub repos](https://github-readme-stats.vercel.app/api?username=hafizdkren&show_icons=true&title_color=#0de7b1&text_color=#e81176d9&border_color=#6730f3e6&bg_color=#000000f2&border_radius=50)]()
+[![CyberCode Online](https://github-readme-stats.vercel.app/api/pin/?username=hafizdkren&repo=CyberCodeOnline&show_owner=true&show_icons=true&title_color=0de7b1&text_color=e81176d9&border_color=6730f3e6&bg_color=000000f2&border_radius=20)](https://github.com/hafizdkren/CyberCodeOnline)
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
--->
+## My Best Practice with...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizdkren&exclude_repo=AdGuard-youtube_custom,win10script,perpusRPL-BP2,AdguardHome-Setting&show_icons=true&title_color=0de7b1&text_color=e81176d9&border_color=6730f3e6&bg_color=000000f2&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Project I'm Working On.
 
 - Night of Fallen
 - 5 Dimension Launcher
-- 5DiGine
+- [![5DiGine](https://github-readme-stats.vercel.app/api?username=hafizdkren&repo=5DiGine&show_owner=true&show_icons=true&title_color=0de7b1&text_color=e81176d9&border_color=6730f3e6&bg_color=000000f2&border_radius=20)](https://github.com/hafizdkren/5DiGine)
