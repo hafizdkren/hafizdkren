@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 
 [![CyberCode Online](https://github-readme-stats.vercel.app/api/pin/?username=hafizdkren&repo=CyberCodeOnline&show_owner=true&show_icons=true&title_color=0de7b1&text_color=e81176d9&border_color=6730f3e6&bg_color=000000f2&border_radius=20)](https://github.com/hafizdkren/CyberCodeOnline)
 
-[![CyberCode Online](https://github-readme-stats.vercel.app/api/pin/?username=hafizdkren&repo=5GiGine&show_owner=true&show_icons=true&title_color=0de7b1&text_color=e81176d9&border_color=6730f3e6&bg_color=000000f2&border_radius=20)](https://github.com/hafizdkren/5GiGIne)
+[![5DiGine](https://github-readme-stats.vercel.app/api/pin/?username=hafizdkren&repo=5DiGine&show_owner=true&show_icons=true&title_color=0de7b1&text_color=e81176d9&border_color=6730f3e6&bg_color=000000f2&border_radius=20)](https://github.com/hafizdkren/5DiGine)
+
 
 ## My Best Practice with...
 
@@ -45,4 +46,4 @@ Here are some ideas to get you started:
 - Night of Fallen
 - 5 Dimension Launcher
 
-[![CyberCode Online](https://github-readme-stats.vercel.app/api/pin/?username=hafizdkren&repo=5DiGine&show_owner=true&show_icons=true&title_color=0de7b1&text_color=e81176d9&border_color=6730f3e6&bg_color=000000f2&border_radius=20)](https://github.com/hafizdkren/5DiGine)
+[![5DiGine](https://github-readme-stats.vercel.app/api/pin/?username=hafizdkren&repo=5DiGine&show_owner=true&show_icons=true&title_color=0de7b1&text_color=e81176d9&border_color=6730f3e6&bg_color=000000f2&border_radius=20)](https://github.com/hafizdkren/5DiGine)
