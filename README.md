@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 -->
 # whoami (It's Who Am I, not who ami.)
 
-![Hafizdkren GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizdkren&theme=midnight-purple&show_icon=true)
-<!--(https://github-readme-stats.vercel.app/api?username=hafizdkren&show_icons=true&title_color=#0de7b1&text_color=#e81176d9&border_color=#6730f3e6&bg_color=#000000f2&border_radius=15)
+![Hafizdkren GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizdkren&show_icons=true&title_color="#0de7b1"&text_color="#e81176d9"&border_color="#6730f3e6"&bg_color="#000000f2"&border_radius=50)
+
+<!--
+(https://github-readme-stats.vercel.app/api?username=hafizdkren&show_icons=true&title_color=#0de7b1&text_color=#e81176d9&border_color=#6730f3e6&bg_color=#000000f2&border_radius=15)
+(https://github-readme-stats.vercel.app/api?username=hafizdkren&theme=midnight-purple&show_icon=true)
 -->
 
 - 🌱 I’m currently learning animation, also re-learn coding and photography
@@ -28,7 +31,7 @@ Here are some ideas to get you started:
 
 ## My Repo List.
 
-[![Hafizdkren GitHub repos](https://github-readme-stats.vercel.app/api?username=hafizdkren&theme=midnight-purple&show_icon=true)]()
+[![Hafizdkren GitHub repos](https://github-readme-stats.vercel.app/api?username=hafizdkren&show_icons=true&title_color=#0de7b1&text_color=#e81176d9&border_color=#6730f3e6&bg_color=#000000f2&border_radius=50)]()
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
