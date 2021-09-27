@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## My Best Practice with...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizdkren&exclude_repo=AdGuard-youtube_custom,win10script,perpusRPL-BP2,AdguardHome-Setting&show_icons=true&title_color=0de7b1&text_color=e81176d9&border_color=6730f3e6&bg_color=000000f2&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizdkren&exclude_repo=AdGuard-youtube_custom,win10script,perpusRPL-BP2,AdguardHome-Setting&show_icons=true&title_color=0de7b1&text_color=e81176d9&border_color=6730f3e6&bg_color=000000f2&border_radius=20)](https://github.com/hafizdkren)
 
 ## Project I'm Working On.
 
