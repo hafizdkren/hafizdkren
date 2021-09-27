@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Hill and Man (like IP MAN).
 - ⚡ Fun fact: Crippled doesn't mean can't run or even walk... You need to find tricks to be able to walk...
 - 💬 Ask me about: Gaming, Cryptocurrency, Technology, Financial, Advice. I'll finding those solution...
+- 🤔 I’m looking for help with my main project as world builder and assistant for storyline, can contact me on Discord: Hafizdkren#0990
+({Nice number you got there} Yeah I know, but not my fav one. sad...)
 
 
 - 📫 How to reach me? [Just click this link...](https://www.linktr.ee/Hafizdkren)
